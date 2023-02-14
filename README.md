@@ -1,6 +1,6 @@
 # versi php
 
-php 7.4
+PHP 7.4.33
 
 # database name
 
